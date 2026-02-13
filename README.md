@@ -14,11 +14,11 @@ The purpose of this procedure is to transform transactional retail data into str
 ## 🎯 Procedure Objective
 `SP_SUPERMARKET_REPORTS` generates three analytical reports within a single execution:
 
-1️⃣ Sales report including tax calculations
+* 1️⃣ Sales report including tax calculations
 
-2️⃣ Customer satisfaction report
+* 2️⃣ Customer satisfaction report
 
-3️⃣ Profitability report by product line
+* 3️⃣ Profitability report by product line
 
 
 Each report creates a physical table populated with calculated metrics.
